@@ -1,34 +1,45 @@
 # Hi there! I'm Nguyen Chau Thien Bao 👋
 
-### 👨‍🔬 Geospatial & Supply Chain Researcher
-Tôi hiện là sinh viên khoa **Quản trị Chuỗi cung ứng tại Trường Đại học Giao thông Vận tải TP.HCM (UTH)**. Đam mê của tôi nằm ở việc giao thoa giữa dữ liệu và thực tế thông qua việc xây dựng các công cụ **Visualize Mapping** và tối ưu hóa hệ thống logistics.
+### 👨‍🔬 Geospatial Data Researcher & Supply Chain Enthusiast
+I am a **Supply Chain Management** student at the **University of Transport HCMC (UTH)**. My work focuses on the intersection of data science and logistics, specifically in building interactive **Geospatial Mapping** solutions and optimizing distribution networks.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Expertise & Technical Stack
 
-#### **Data Science with R**
-Tôi sử dụng hệ sinh thái R chuyên sâu để xử lý, phân tích và trực quan hóa dữ liệu không gian:
+#### **Geospatial Data Science with R**
+I specialize in the R ecosystem for processing, analyzing, and visualizing spatial data:
 - **Spatial Analysis:** `sf`, `leaflet`, `geosphere`, `osmdata`, `leaflet.extras`.
-- **App Development:** `Shiny`, `GWalkR`, `htmltools`.
-- **Data Wrangling:** `tidyverse` (`dplyr`, `tidyr`, `purrr`), `stringr`, `janitor`, `zoo`.
-- **Visualization:** `ggplot2`, `highcharter`, `DT`, `viridisLite`.
+- **Interactive Apps:** `Shiny`, `GWalkR`, `htmltools`, `DT`.
+- **Data Wrangling:** `tidyverse` (`dplyr`, `tidyr`, `purrr`), `readr`, `janitor`, `zoo`.
+- **Visualization:** `ggplot2`, `highcharter`, `viridisLite`, `scales`.
 
 #### **Logistics & Business Intelligence**
-- **SOP & System Design:** Thiết kế quy trình cho hệ thống SDS (Student Demand Service).
-- **BI Tools:** Power BI, Google Looker Studio, RMarkdown/Quarto.
-- **E-commerce:** Nghiên cứu mô hình Amazon FBA & Private Label.
+- **System Design:** Designing Standard Operating Procedures (SOPs) for logistics dashboards.
+- **BI Tools:** Power BI, Google Looker Studio, RMarkdown / Quarto.
+- **Market Research:** Amazon FBA Private Label modeling & international sourcing analysis.
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Street-Turn Matching Platform](https://github.com/your-repo-link):** Nền tảng kết nối logistics bền vững giúp tối ưu hóa việc vận chuyển container rỗng (Dự án Hackathon Digiport 2025).
-- **[Student Demand Service - SDS](https://github.com/your-repo-link):** Hệ thống hóa quy trình mượn trả và yêu cầu tài liệu cho thư viện UTH.
-- **[Amazon FBA Private Label Plan](https://github.com/your-repo-link):** Chiến lược tung sản phẩm massage gun vào thị trường Bắc Mỹ với phân tích P&L và sourcing chi tiết.
-- **[Corporate Financial Analytics](https://github.com/your-repo-link):** Phân tích các chỉ số ROE, ROA, ROS cho Vinamilk và Vĩnh Hoàn Group bằng R.
+- **[Street-Turn Matching Platform](https://github.com/your-repo-link):** A sustainable logistics solution developed for the **Hackathon Digiport 2025**, focusing on empty container repositioning optimization.
+- **[Student Demand Service (SDS)](https://github.com/your-repo-link):** A streamlined system for the UTH Library to automate book requests and inventory tracking.
+- **[Amazon FBA Strategy](https://github.com/your-repo-link):** Comprehensive market analysis, P&L modeling, and sourcing strategy for a Private Label launch in North America.
+- **[Corporate Financial Analytics](https://github.com/your-repo-link):** Automated reporting of ROE, ROA, and ROS metrics for leading Vietnamese corporations using R.
 
 ---
+
+### 📊 GitHub Insights
+![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchauthienbao01-stack&layout=compact&theme=nord)
+
+---
+
+### 📫 Let's Connect!
+- 🎓 **Education:** University of Transport HCMC (UTH)
+- 📍 **Focus:** Logistics Optimization | Spatial Data | Supply Chain Analytics
+- ✉️ **Email:** [Your Email Here]
 
 ### 📊 GitHub Activity
 ![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=radical)
