@@ -39,7 +39,7 @@ I specialize in the R ecosystem for processing, analyzing, and visualizing spati
 ### 📫 Let's Connect!
 - 🎓 **Education:** University of Transport HCMC (UTH)
 - 📍 **Focus:** Logistics Optimization | Spatial Data | Supply Chain Analytics
-- ✉️ **Email:** [Your Email Here]
+- ✉️ **Email:** nguyenchauthienbao01@gmail.com
 
 ### 📊 GitHub Activity
 ![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=radical)
