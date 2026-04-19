@@ -31,8 +31,12 @@ I specialize in the R ecosystem for processing, analyzing, and visualizing spati
 ---
 
 ### 📊 GitHub Insights
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchauthienbao01-stack&layout=compact&theme=nord)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=tokyonight&locale=en" alt="Bao's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchauthienbao01-stack&layout=compact&theme=tokyonight&locale=en" alt="Top Langs" />
+</p>
 
 ---
 
