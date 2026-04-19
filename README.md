@@ -41,10 +41,6 @@ I specialize in the R ecosystem for processing, analyzing, and visualizing spati
 - 📍 **Focus:** Logistics Optimization | Spatial Data | Supply Chain Analytics
 - ✉️ **Email:** nguyenchauthienbao01@gmail.com
 
-### 📊 GitHub Activity
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchauthienbao01-stack&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchauthienbao01-stack&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Connect with me
