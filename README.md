@@ -40,6 +40,14 @@ I specialize in the R ecosystem for processing, analyzing, and visualizing spati
 
 ---
 
+### 💻 Programming Languages & Tools
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-0072C6?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
 ### 📫 Let's Connect!
 - 🎓 **Education:** University of Transport HCMC (UTH)
 - 📍 **Focus:** Logistics Optimization | Spatial Data | Supply Chain Analytics
